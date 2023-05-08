@@ -2,7 +2,7 @@ package org.example.iniciante;
 
 import java.util.Scanner;
 
-public class DIstanciaEntreDoisPontos {
+public class DistanciaEntreDoisPontos {
     public static void main(String[] args) {
         Scanner sc = new java.util.Scanner(System.in);
         double x1 = sc.nextDouble();
